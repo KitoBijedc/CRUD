@@ -1,0 +1,1 @@
+Kan ikke connecte til database, vil gerne have vejledning, antager at hele opgaven fungerer, men kan ikke være sikker.
